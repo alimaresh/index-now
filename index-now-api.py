@@ -1,3 +1,14 @@
+"""
+IndexNow API Tool
+========================
+
+A GUI application to interact with the IndexNow API.
+Allows users to publish URLs to the IndexNow API.
+
+Author: ALI MARESH
+License: MIT
+"""
+
 import os
 import json
 import threading
