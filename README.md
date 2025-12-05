@@ -1,7 +1,7 @@
 # IndexNow API Tool
 
 A simple and modern Python GUI application that allows you to instantly submit URLs to the **IndexNow** API, supported by Bing and Yandex. This tool is designed to help creators and developers get their content indexed faster by notifying search engines immediately when pages are added, updated, or removed.  
-The tool was originally created to streamline indexing workflows used across several projects, including platforms like [Plinkod.com](https://plinkod.com), where fast visibility for new content is essential.
+The tool was originally created to streamline indexing workflows used across several projects, including platforms like [Plinkod.com](https://plinkod.com/multiplayer-games), where fast visibility for new content is essential.
 
 ## Preview
 ![IndexNow Tool](assets/preview.png)
